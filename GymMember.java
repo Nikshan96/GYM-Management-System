@@ -82,3 +82,5 @@ abstract class GymMember {
         );
     }
 }
+
+// Minor update 1
