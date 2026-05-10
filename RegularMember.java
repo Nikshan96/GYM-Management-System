@@ -106,3 +106,5 @@ public class RegularMember extends GymMember {
         );
     }
 }
+
+// Minor update 3
