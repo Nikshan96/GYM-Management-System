@@ -89,3 +89,9 @@ public class PremiumMember extends GymMember {
         );
     }
 }
+
+// Minor update 2
+
+// Minor update 7
+
+// Minor update 12
