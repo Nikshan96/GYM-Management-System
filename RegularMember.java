@@ -110,3 +110,5 @@ public class RegularMember extends GymMember {
 // Minor update 3
 
 // Minor update 8
+
+// Minor update 13
